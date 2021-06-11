@@ -1,2 +1,2 @@
-# tecnologia-hoje
+# Tecnologia-hoje
 assunto sobre tecnologia 
